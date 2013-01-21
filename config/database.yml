@@ -2,7 +2,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: db/development.pg
+  database: db/development
   pool: 5
   username: postgres
   password: Zozo2Kx$
